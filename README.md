@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ## For Running the application
 
 - git clone the repository 
-- Go to your project folder
-- Then execute the command "flutter run"
+- Go to your project folder and open the project with vscode
+- Then execute the command "flutter run" in the terminal to launch the project
